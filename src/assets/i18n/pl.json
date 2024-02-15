@@ -1,0 +1,90 @@
+{
+  "Header.Item1": "O mnie",
+  "Header.Item2": "Umiejętności",
+  "Header.Item3": "Projekty",
+  "Header.Item4": "Kontakt",
+  "Header.cvBtn": "CV",
+  "Header.cvName": "CV_Jose_Hernandez_Polski.pdf",
+
+  "Banner.Pretitle": "Cześć! Nazywam się",
+  "Banner.Description": "Posiadam <span class='underline'>4 lata doświadczenia</span> w tworzeniu systemów, interfejsów, botów i rozwiązań technologicznych, aby uczynić sieć lepszym miejscem. Jestem oddany pisaniu i refaktoryzacji czystego, ponownie używalnego i skalowalnego kodu w <span class='underline'>Angularze</span> oraz czasami w <span class='underline'>Laravelu</span>, stosując dobre praktyki i standardy rozwoju.",
+  "Banner.ActionBtn": "Skontaktuj się",
+
+  "AboutMe.Title": "O mnie",
+  "AboutMe.Paragraphs": [
+    "Jestem uczniem szkoły średniej o profilu technik programista. Już od dziecka interesowało mnie programowanie. Moje pierwsze strony internetowe zaczynałem tworzyć w wieku 12 lat.",
+    " W wolnym czasie uwielbiam także fotografować krajobrazy natury. Staram się być <span class='underline'>konkretny</span> i zawsze wykonuję powierzoną mi pracę na czas. <span class='underline'>Jestem osobą bardzo słowną i godną zaufania</span>.",
+    "Nieustannie staram się podnosić poziom trudności tego, co robię, aby tworzyć coraz to lepszy kod oraz ładniejsze projekty."
+  ],
+
+  "Experience.Title": "Umiejętności",
+  "Experience.Jobs": [
+    {
+      "Tab": "Programy",
+      "Title": "Programy, jakimi się posługuję",
+      "Description": [
+        "Figma",
+        "Visual Studio Code",
+        "GitHub",
+        "Notion",
+        "Adobe XD"
+      ]
+    },
+    {
+      "Tab": "Języki",
+      "Title": "Języki, z których korzystam",
+      "Description": [
+        "JavaScript",
+        "TypeScript",
+        "Sass",
+        "HTML",
+        "CSS 3"
+      ]
+    },
+    {
+      "Tab": "Frameworki",
+      "Title": "Frameworki, z których korzystam",
+      "Description": [
+        "React",
+        "Angular"
+      ]
+    },
+    {
+      "Tab": "Biblioteki",
+      "Title": "Biblioteki, z których korzystam",
+      "Description": [
+        "Bootstrap",
+        "Tailwind CSS",
+        "Font Awesome"
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "Moje projekty",
+  "FeatureProjects.Label": "Projekt Niepubliczny",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Mandarin ID",
+      "Description": "Ekosystem Grupy Mandarin ma na celu dążenie do uniwersalności systemu logowania we wszystkich swoich usługach. Dlatego powstał <span class='underline'>Mandarin ID</span> – czyli prosty i<span class='underline'> bezpieczny system logowania do wszystkich usług</span> oferowanych i wspieranych przez ów system.",
+      "imgs": [
+        "assets/images/mid1.png",
+        "assets/images/mid2.png"
+      ],
+      "Technologies": ["React", "CSS3", "Tailwind CSS", "TypeScript", "MongoDB"]
+    },
+    {
+      "Title": "MandarinEDU",
+      "Description": "<span class='underline'>Mandarin Edu</span> to strona, na której możesz stworzyć grupę, w której zaproszeni uczniowie mogą dzielić się notatkami i korzystać z pomocy edukacyjnych. <span class='underline'>Jest to również centrum wymiany informacji i udostępniania</span>, na przykład planu lekcji czy też najważniejszych ogłoszeń.",
+      "imgs": [
+        "assets/images/medu1.png",
+        "assets/images/medu3.png"
+      ],
+      "Technologies": ["React", "CSS3", "Bootstrap", "Tailwind CSS", "TypeScript", "MongoDB"]
+    }
+  ],
+
+  "Contact.Pretitle": "Co dalej",
+  "Contact.Title": "Skontaktuj się!",
+  "Contact.Content": "Będę szczęśliwy, jeśli skontaktujesz się ze mną w sprawie nowych możliwości. Napisz do mnie, a odpowiem tak szybko, jak zobaczę Twoją wiadomość. Prosty projekt jednostronicowy przedstawiający literę profilową z podstawowymi informacjami o osobie.",
+  "Contact.Btn": "Napisz do mnie"
+}

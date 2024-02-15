@@ -1,0 +1,90 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Skills",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "CV",
+  "Header.cvName": "CV_Jose_Hernandez_English.pdf",
+
+  "Banner.Pretitle": "Hi! My name is",
+  "Banner.Description": "I have <span class='underline'>4 years of experience</span> in creating systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and sometimes in <span class='underline'>Laravel</span>, following best practices and development standards.",
+  "Banner.ActionBtn": "Contact Me",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "I am a high school student specializing in programming. I have been interested in programming since childhood, starting to create my first websites at the age of 12.",
+    "In my free time, I also love capturing landscapes in nature. I strive to be <span class='underline'>precise</span> and always complete assigned tasks on time. I am a very <span class='underline'>articulate and trustworthy person</span>.",
+    "I constantly aim to raise the difficulty level of what I do to create better code and more attractive projects."
+  ],
+
+  "Experience.Title": "Skills",
+  "Experience.Jobs": [
+    {
+      "Tab": "Tools",
+      "Title": "Tools I Use",
+      "Description": [
+        "Figma",
+        "Visual Studio Code",
+        "GitHub",
+        "Notion",
+        "Adobe XD"
+      ]
+    },
+    {
+      "Tab": "Languages",
+      "Title": "Languages I Use",
+      "Description": [
+        "JavaScript",
+        "TypeScript",
+        "Sass",
+        "HTML",
+        "CSS 3"
+      ]
+    },
+    {
+      "Tab": "Frameworks",
+      "Title": "Frameworks I Use",
+      "Description": [
+        "React",
+        "Angular"
+      ]
+    },
+    {
+      "Tab": "Libraries",
+      "Title": "Libraries I Use",
+      "Description": [
+        "Bootstrap",
+        "Tailwind CSS",
+        "Font Awesome"
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "Non-Public Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Mandarin ID",
+      "Description": "The Mandarin Group's ecosystem aims for universality in the login system across all its services. Thus, <span class='underline'>Mandarin ID</span> was created - a simple and <span class='underline'>secure login system for all services</span> offered and supported by the system.",
+      "imgs": [
+        "assets/images/mid1.png",
+        "assets/images/mid2.png"
+      ],
+      "Technologies": ["React", "CSS3", "Tailwind CSS", "TypeScript", "MongoDB"]
+    },
+    {
+      "Title": "MandarinEDU",
+      "Description": "<span class='underline'>Mandarin Edu</span> is a platform where you can create a group, and invited students can share notes and access educational assistance. It is also a <span class='underline'>hub for information exchange</span>, sharing lesson plans, and important announcements.",
+      "imgs": [
+        "assets/images/medu1.png",
+        "assets/images/medu3.png"
+      ],
+      "Technologies": ["React", "CSS3", "Bootstrap", "Tailwind CSS", "TypeScript", "MongoDB"]
+    }
+  ],
+
+  "Contact.Pretitle": "What's Next",
+  "Contact.Title": "Get in Touch!",
+  "Contact.Content": "I'll be happy if you reach out to me for new opportunities. Write to me, and I'll respond as soon as I see your message. A simple one-page project showcasing a profile letter with basic information about a person.",
+  "Contact.Btn": "Write to Me"
+}
